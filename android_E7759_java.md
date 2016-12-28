@@ -20,7 +20,7 @@ Run a simple JAVA sample on E7759 device running Android N (v7.0)
 
 **About this document**
 
-This document describes how to connect Intel Sofia with Azure IoT SDK. This multi-step process includes:
+This document describes how to connect E7759 with Azure IoT SDK. This multi-step process includes:
 -   Configuring Azure IoT Hub
 -   Registering your IoT device
 -   Build and deploy Azure IoT SDK on device
