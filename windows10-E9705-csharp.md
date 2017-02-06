@@ -38,7 +38,7 @@ You should have the following items ready before beginning the process:
 <a name="PrepareDevice"></a>
 # Step 2: Prepare your Device
 
--   Follow the instructions from [devices website]https://catalog.azureiotsuite.com/details?title=E7708T&source=partner-page
+-   Follow the instructions from [devices website]https://catalog.azureiotsuite.com/details?title=E9705&source=partner-page
 
 <a name="Build"></a>
 # Step 3: Build and Run the sample
